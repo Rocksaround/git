@@ -1,0 +1,7 @@
+%message{
+    font-size: 30px;
+}
+
+.sass{
+    @extend %message
+}

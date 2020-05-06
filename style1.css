@@ -1,0 +1,26 @@
+nav {
+  background: #333;
+  padding: 0px !important;
+}
+nav ul {
+  background-color: #333;
+  position: sticky !important;
+  margin: 0px !important;
+  padding: 0px;
+  overflow: hidden;
+}
+nav ul li {
+  float: left;
+  list-style: none;
+}
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none !important;
+  font-size: 30px;
+  padding-right: 20px;
+}
+
+/*# sourceMappingURL=style1.css.map */
